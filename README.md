@@ -12,9 +12,14 @@
 </div>
 
 ###
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gamee1910/gamee1910/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gamee1910/gamee1910/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/gamee1910/gamee1910/output/pacman-contribution-graph.svg">
 </picture>
+
+###
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/hhhau1910?theme=dark&font=JetBrains%20Mono&ext=heatmap" width="100%" alt="LeetCode Stats" />
+</p>
+
