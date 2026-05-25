@@ -4,7 +4,7 @@
 
 ### 
 <p align="middle">
-    <img src="https://skillicons.dev/icons?i=c,cpp,java,spring,docker,postgres,mysql,mongodb,ubuntu,debian,git&theme=light" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,spring,docker,postgres,mysql,mongodb,linux,git&theme=light" />
 </p>
 
 <div align="center">
