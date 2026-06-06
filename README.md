@@ -1,16 +1,3 @@
-<div align="center">
-    <h1>Tech Stack</h1>
-</div>
-
-### 
-<p align="middle">
-    <img src="https://skillicons.dev/icons?i=c,cpp,java,spring,docker,postgres,mysql,mongodb,linux,git&theme=light" />
-</p>
-
-<div align="center">
-    <p>📧 Contact: hhhau1910@gmail.com </p>
-</div>
-
 ###
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gamee1910/gamee1910/output/pacman-contribution-graph-dark.svg">
@@ -18,8 +5,4 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/gamee1910/gamee1910/output/pacman-contribution-graph.svg">
 </picture>
 
-###
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/hhhau1910?theme=dark&font=JetBrains%20Mono&ext=heatmap" width="100%" alt="LeetCode Stats" />
-</p>
 
