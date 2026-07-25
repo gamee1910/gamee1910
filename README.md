@@ -33,5 +33,3 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gamee1910/gamee1910/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/gamee1910/gamee1910/output/pacman-contribution-graph.svg">
 </picture>
-  <img src="https://komarev.com/ghpvc/?username=gamee1910&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS" />
-</p>
