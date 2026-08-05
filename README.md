@@ -32,7 +32,7 @@
       <img src="https://skillicons.dev/icons?i=gmail&theme=light" />
   </a>
   &nbsp;
-  <a href="https://linkedin.com/in/hhhau1910">
+  <a href="www.linkedin.com/in/hauhh1910">
     <img src="https://skillicons.dev/icons?i=linkedin&theme=light" />
   </a>
 </p>
