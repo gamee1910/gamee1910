@@ -1,16 +1,27 @@
-## Tech Stack
+<h2 align="center">Tech Stack</h2>
 
-### Programming Languages
-<img src="https://skillicons.dev/icons?i=java,c,cpp,cs,go,js,ts&theme=light" />
-
-### Frameworks & Libraries
-<img src="https://skillicons.dev/icons?i=spring,dotnet,react,gin&theme=light" />
-
-### Databases
-<img src="https://skillicons.dev/icons?i=mysql,postgres&theme=light" />
-
-### Tools & Infrastructure
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux&theme=light" />
+<table width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <b>Programming Languages</b><br/><br/>
+      <img src="https://skillicons.dev/icons?i=java,c,cpp,cs,go,js,ts&theme=light" />
+    </td>
+    <td width="50%" align="center">
+      <b>Frameworks & Libraries</b><br/><br/>
+      <img src="https://skillicons.dev/icons?i=spring,dotnet,react,gin&theme=light" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <b>Databases</b><br/><br/>
+      <img src="https://skillicons.dev/icons?i=mysql,postgres&theme=light" />
+    </td>
+    <td width="50%" align="center">
+      <b>Tools & Infrastructure</b><br/><br/>
+      <img src="https://skillicons.dev/icons?i=git,github,docker,linux&theme=light" />
+    </td>
+  </tr>
+</table>
 
 ---
 <picture>
@@ -21,7 +32,7 @@
 
 ---
 
-## Connect With Me
+<h2 align="center">Connect With Me</h2>
 
 <p align="center">
   <a href="https://github.com/gamee1910">
