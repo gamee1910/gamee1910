@@ -1,22 +1,24 @@
 <h2 align="center">Tech Stack</h2>
 
-<table width="100%">
+<table>
   <tr>
-    <td width="50%" align="center">
+    <td width="500" align="center">
       <b>Programming Languages</b><br/><br/>
       <img src="https://skillicons.dev/icons?i=java,c,cpp,cs,go,js,ts&theme=light" />
+      <img src="https://via.placeholder.com/450x1/000000/000000?text=" width="450" height="1" style="opacity:0" />
     </td>
-    <td width="50%" align="center">
+    <td width="500" align="center">
       <b>Frameworks & Libraries</b><br/><br/>
       <img src="https://skillicons.dev/icons?i=spring,dotnet,react,gin&theme=light" />
+      <img src="https://via.placeholder.com/450x1/000000/000000?text=" width="450" height="1" style="opacity:0" />
     </td>
   </tr>
   <tr>
-    <td width="50%" align="center">
+    <td align="center">
       <b>Databases</b><br/><br/>
       <img src="https://skillicons.dev/icons?i=mysql,postgres&theme=light" />
     </td>
-    <td width="50%" align="center">
+    <td align="center">
       <b>Tools & Infrastructure</b><br/><br/>
       <img src="https://skillicons.dev/icons?i=git,github,docker,linux&theme=light" />
     </td>
