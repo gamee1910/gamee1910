@@ -2,6 +2,7 @@ Hi there! I'm a Software Engineer from Vietnam. If you're interested in my work,
 
 - [LinkedIn](https://www.linkedin.com/in/hauhh1910/)
 - [Email](mailto:hhhau1910@gmail.com)
+- [Facebook](https://www.facebook.com/gamee1910/)
 
 ---
 <picture>
