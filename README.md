@@ -4,6 +4,8 @@ Hi there! I'm a Software Engineer from Vietnam. If you're interested in my work,
 - [Email](mailto:hhhau1910@gmail.com)
 - [Facebook](https://www.facebook.com/gamee1910/)
 
+Happy Coding!! 
+
 ---
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gamee1910/gamee1910/output/pacman-contribution-graph-dark.svg">
